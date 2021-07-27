@@ -1,0 +1,5 @@
+1. What are loop interruption statements in Python?
+A. There are two types of loop interruption statements in Python that let users terminate a loop iteration prematurely, i.e., without letting the loop run its full iterations.
+Following are the two loop interruption statements:
+Python break statement: This statement immediately terminates the loop entirely, and the control flow of the program is shifted directly to the outside of the loop.
+Python continue statement: Continue statement terminates the current loop iteration and moves the control flow of the program to the next iteration of the loop, letting the user skip only the current iteration.

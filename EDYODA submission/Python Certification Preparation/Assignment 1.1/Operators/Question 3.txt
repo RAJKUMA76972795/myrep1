@@ -1,0 +1,19 @@
+1. Explain membership operators with example
+
+These operators test for membership in a sequence such as lists, strings, or tuples. Two membership operators are used in Python. (in, not in). It gives the result based on the variable present in a specified sequence or string.
+
+Example:
+
+For example here, we check whether the value of x=4 and value of y=8 is available in list or not by using in and not in operators.
+
+x = 4
+y = 8
+list = [1, 2, 3, 4, 5 ];
+if ( x in list ):
+   print("Line 1 - x is available in the given list")
+else:
+   print("Line 1 - x is not available in the given list")
+if ( y not in list ):
+   print("Line 2 - y is not available in the given list")
+else:
+   print("Line 2 - y is available in the given list")

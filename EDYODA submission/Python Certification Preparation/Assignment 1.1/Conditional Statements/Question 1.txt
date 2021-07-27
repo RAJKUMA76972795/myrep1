@@ -1,0 +1,23 @@
+1. What is Python If Statement?
+
+Python if Statement is used for decision-making operations. It contains a body of code that runs only when the condition given in the if statement is true. If the condition is false, then the optional else statement runs, which contains some code for the else condition.
+
+When you want to justify one condition while the other condition is not true, then you use Python if-else statement.
+
+Python if Statement Syntax:
+
+if expression
+ Statement
+else 
+ Statement
+Let's see an example of Python if else Statement:
+
+def main():
+    x,y =2,8
+    
+    if(x < y):
+        st= "x is less than y"
+    print(st)
+    
+if __name__ == "__main__":
+    main()

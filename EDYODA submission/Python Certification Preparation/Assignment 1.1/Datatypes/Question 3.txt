@@ -1,0 +1,8 @@
+1. Explain split() and join() functions in Python?
+You can use split() function to split a string based on a delimiter to a list of strings.
+You can use join() function to join a list of strings based on a delimiter to give a single string.
+
+string = "This is a string."
+string_list = string.split(' ') #delimiter is ‘space’ character or ‘ ‘
+print(string_list) #output: ['This', 'is', 'a', 'string.']
+print(' '.join(string_list)) #output: This is a string.

@@ -1,0 +1,9 @@
+1. Explain Arithmetic operators with example
+
+Arithmetic Operators perform various arithmetic calculations like addition, subtraction, multiplication, division, %modulus, exponent, etc. There are various methods for arithmetic calculation in Python, like you can use the eval function, declare variable & calculate, or call functions.
+
+Example: For arithmetic operators, we will take a simple example of addition where we will add two-digit 4+5=9
+
+x= 4    
+y= 5
+print(x + y)

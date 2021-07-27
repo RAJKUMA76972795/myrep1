@@ -1,0 +1,10 @@
+1. How can you use for loop to repeat the same statement over and again?
+
+You can use for loop for even repeating the same statement over and again. Here in the example, we have printed out the word "guru99" three times.
+
+Example:
+
+To repeat the same statement a number of times, we have declared the number in variable i (i in 123). So when you run the code as shown below, it prints the statement (guru99) that many times the number declared for our the variable in ( i in 123).
+
+for i in '123':
+ print ("guru99",i,)
