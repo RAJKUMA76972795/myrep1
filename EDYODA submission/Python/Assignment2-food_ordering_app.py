@@ -316,9 +316,9 @@ class FoodOrderingApp:
                         print("Order history of",user.name,orderDetails) 
                     else:
                         print(user.name,"your order history is empty")       
-                break
-            else:
-                print("Enter a valid email")
+            #     break
+            # else:
+            #     print("Enter a valid email")
         else:
             print("Please, First login as a user")        
 
