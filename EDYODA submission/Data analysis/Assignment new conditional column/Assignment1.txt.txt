@@ -1,0 +1,13 @@
+Answer of Q1= Table.AddColumn(#"Added Conditional Column", "surcharge", each if [Ship Mode] = "Same Day" then 0.2 else if [Ship Mode] = "First Class" then 0.1 else if [Ship Mode] = "Standard Class" then 0.05 else 0)
+
+
+
+
+
+
+
+
+
+
+
+Answer of Q2.= Table.AddColumn(#"Added Conditional Column1", "total cost", each ([Sales]-[Profit])*(1+[surcharge]))
