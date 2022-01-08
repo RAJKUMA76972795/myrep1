@@ -1,0 +1,8 @@
+From the Essay part I am choosing the third option that is - Write about anything that you enjoy doing other than work .
+
+Here are the some things that I enjoy doing other than work -
+1. Reading about Economy news and stock market . I also invest money in the Mutual Funds(Bluechip funds) and invest in Large cap stocks such as HDFC Bank , Reliance , Infosys etc . 
+2. Listening some hindi or bengali romantic music sung by Arijit Singh , Kishore Kumar , Kumar Shanu , Shreya Ghosal etc .
+3. Learning new technology related to my work . Suppose , I have made a project in Python Django , Now I need to deploy my project . For deploying I will learn basic concept of cloud hosting (Such as Digitalocean , AWS etc ) and web server (such as Apache , Nginx ) . 
+
+So , this are some things I really enjoy doing other than work .
